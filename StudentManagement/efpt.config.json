@@ -1,0 +1,53 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "StudentManagementContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "StudentManagement",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Student]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StudentCourse]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Teacher]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-G0BD7P1.StudentManagement",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

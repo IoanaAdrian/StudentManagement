@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{18E93B54-3D74-42CF-A960-10E24031040C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentManagement/Controllers/StudentController.cs">
+    <Files>
+      <File FileName="StudentManagement/Program.cs" Line="1" Column="1" />
+      <File FileName="StudentManagement/Controllers/StudentController.cs" Line="8" Column="25" />
+      <File FileName="StudentManagement/IServices/IStudentRegisterService.cs" />
+      <File FileName="StudentManagement/Services/StudentRegisterService.cs" Line="12" Column="1" />
+      <File FileName="StudentManagement/Startup.cs" />
+      <File FileName="StudentManagement/IServices/ICourseService.cs" Line="1" Column="1" />
+      <File FileName="StudentManagement/Services/CourseService.cs" />
+      <File FileName="StudentManagement/Mappers/MyMapper.cs" Line="8" Column="1" />
+      <File FileName="StudentManagement/appsettings.json" />
+      <File FileName="StudentManagement/Services/StudentLoginService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentManagement" expanded="True">
+            <Node name="StudentManagement" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="IServices" expanded="True" />
+              <Node name="Mappers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
